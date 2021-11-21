@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background: #262626;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+svg {
+  width: auto;
+  height: auto;
+  max-width: 90%;
+  max-height: 100%;
+  font-weight: 700;
+}
